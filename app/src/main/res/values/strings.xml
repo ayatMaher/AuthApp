@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">AuthApplication</string>
+    <string name="enter_your_password">Enter Your Password</string>
+    <string name="signup">Sign Up</string>
+    <string name="enter_your_email">Enter Your Email</string>
+    <string name="sign_in">Sign In</string>
+    <string name="update_profile">Update Profile</string>
+    <string name="enter_your_phone">Enter Your Phone</string>
+    <string name="enter_your_name">Enter your Name</string>
+    <string name="profile">Profile</string>
+    <string name="userimage">userImage</string>
+    <string name="log_out">Log Out</string>
 </resources>
